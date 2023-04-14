@@ -1,4 +1,16 @@
+## IntroDuction
+
+you can preview this project with [Cryptocurrency-app](https://project-realestate-app.netlify.app/).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## dependencies
+
+### Next.js
+
+### React.js
+
+### Chakra UI
 
 ## Getting Started
 
